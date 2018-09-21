@@ -1,0 +1,11 @@
+/Users/zacharyverghese/Downloads/00 Coding Dojo/C#/Entity/Belt/bin/Debug/netcoreapp2.0/Belt.deps.json
+/Users/zacharyverghese/Downloads/00 Coding Dojo/C#/Entity/Belt/bin/Debug/netcoreapp2.0/Belt.runtimeconfig.json
+/Users/zacharyverghese/Downloads/00 Coding Dojo/C#/Entity/Belt/bin/Debug/netcoreapp2.0/Belt.runtimeconfig.dev.json
+/Users/zacharyverghese/Downloads/00 Coding Dojo/C#/Entity/Belt/bin/Debug/netcoreapp2.0/Belt.dll
+/Users/zacharyverghese/Downloads/00 Coding Dojo/C#/Entity/Belt/bin/Debug/netcoreapp2.0/Belt.pdb
+/Users/zacharyverghese/Downloads/00 Coding Dojo/C#/Entity/Belt/obj/Debug/netcoreapp2.0/Belt.csprojResolveAssemblyReference.cache
+/Users/zacharyverghese/Downloads/00 Coding Dojo/C#/Entity/Belt/obj/Debug/netcoreapp2.0/Belt.csproj.CoreCompileInputs.cache
+/Users/zacharyverghese/Downloads/00 Coding Dojo/C#/Entity/Belt/obj/Debug/netcoreapp2.0/Belt.AssemblyInfoInputs.cache
+/Users/zacharyverghese/Downloads/00 Coding Dojo/C#/Entity/Belt/obj/Debug/netcoreapp2.0/Belt.AssemblyInfo.cs
+/Users/zacharyverghese/Downloads/00 Coding Dojo/C#/Entity/Belt/obj/Debug/netcoreapp2.0/Belt.dll
+/Users/zacharyverghese/Downloads/00 Coding Dojo/C#/Entity/Belt/obj/Debug/netcoreapp2.0/Belt.pdb
