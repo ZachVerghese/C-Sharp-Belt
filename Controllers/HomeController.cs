@@ -379,5 +379,9 @@ public IActionResult Delete (int actId){
             _context.SaveChanges();
             return RedirectToAction("Home");
         }
+        public IActionResult Error()
+        {
+            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+        }
     }
 }
