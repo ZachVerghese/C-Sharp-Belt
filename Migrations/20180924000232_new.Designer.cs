@@ -10,8 +10,8 @@ using System;
 namespace Belt.Migrations
 {
     [DbContext(typeof(YourContext))]
-    [Migration("20180921162445_duration")]
-    partial class duration
+    [Migration("20180924000232_new")]
+    partial class @new
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

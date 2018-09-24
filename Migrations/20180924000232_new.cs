@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 namespace Belt.Migrations
 {
-    public partial class time : Migration
+    public partial class @new : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
@@ -33,7 +33,7 @@ namespace Belt.Migrations
                     CreatorId = table.Column<int>(nullable: false),
                     Date = table.Column<DateTime>(nullable: false),
                     Description = table.Column<string>(nullable: false),
-                    Duration = table.Column<TimeSpan>(nullable: false),
+                    Duration = table.Column<int>(nullable: false),
                     Time = table.Column<string>(nullable: false),
                     Title = table.Column<string>(nullable: false),
                     Units = table.Column<string>(nullable: true)
